@@ -1,20 +1,17 @@
-# Project Name
+# Git Collaboration Game - 2 Person Activity 
+This repository is a **hands-on Git learning activity** designed for **2 participants** to practicce the real-world Git collaboration conceprs such as branching , merging , conflicts,pull requests and git bash.
 
-## Description 
-short description of the project 
+## Roles
+- **Person A** -> Devloper
+- **Person B** -> Team Lead/ Repository Owner
 
-## Tech Stack
-- Linux
-- SQL
-- JAVA
-- GIT
-- Networking
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
+## Assumptions
+- Repository name : `fintech-app`
+- Default branch : `main`
+- Both users have :
+   - git installed
+   -github/gitlab accounts
 
 ## Installation 
 ``` bash 
