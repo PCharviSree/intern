@@ -18,3 +18,9 @@ This repository is a **hands-on Git learning activity** designed for **2 partici
 git clone https://github.com/PCharviSree/intern.git
 cd repo-name
 npm install
+
+
+
+
+
+# Accept the pull request :bust_in_silhouette:
