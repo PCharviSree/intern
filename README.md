@@ -1,7 +1,11 @@
 # Git Collaboration Game - 2 Person Activity 
 This repository is a **hands-on Git learning activity** designed for **2 participants** to practicce the real-world Git collaboration conceprs such as branching , merging , conflicts,pull requests and git bash.
 
+<<<<<<< HEAD
 ## 👥 Roles
+=======
+## :bust_in_silhouette:  Roles
+>>>>>>> e015794f23785bf565072ab8478b62a067c3bfd0
 - **Person A** -> Devloper
 - **Person B** -> Team Lead/ Repository Owner
 
@@ -34,3 +38,9 @@ create repositort names `fintech-app`
 git clone https://github.com/PCharviSree/intern.git
 cd repo-name
 npm install
+
+
+
+
+
+# Accept the pull request 
