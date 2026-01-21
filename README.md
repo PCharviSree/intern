@@ -1,7 +1,7 @@
 # Git Collaboration Game - 2 Person Activity 
 This repository is a **hands-on Git learning activity** designed for **2 participants** to practicce the real-world Git collaboration conceprs such as branching , merging , conflicts,pull requests and git bash.
 
-## Roles
+## :bust_in_silhouette:  Roles
 - **Person A** -> Devloper
 - **Person B** -> Team Lead/ Repository Owner
 
@@ -23,4 +23,4 @@ npm install
 
 
 
-# Accept the pull request :bust_in_silhouette:
+# Accept the pull request 
